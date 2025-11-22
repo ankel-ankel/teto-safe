@@ -5,4 +5,4 @@ You can play around with the code however you like!
 pyinstaller --onefile --noconsole --icon=teto.ico --add-data "teto.ico;." --add-data "teto.png;." --add-data "images.jpg;." teto.py
 ```
 
-paste this in terminal to convert .py to .exe
+Paste this in terminal to convert .py to .exe
